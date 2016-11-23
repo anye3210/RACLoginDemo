@@ -1,0 +1,6 @@
+framework module Pods_RACLoginDemoUITests {
+  umbrella header "Pods-RACLoginDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
